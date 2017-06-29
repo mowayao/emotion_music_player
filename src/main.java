@@ -1,0 +1,1 @@
+import javax.swing.*;/** * Created by mowayao on 2016/12/22. */public class main {    private JPanel panel1;}
